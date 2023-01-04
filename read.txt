@@ -1,0 +1,5 @@
+Hello world
+https://www.datacamp.com/tutorial/kaggle-machine-learning-eda
+https://learn.theprogrammingfoundation.org/getting_started/intro_data_science/module4
+https://chat.openai.com/chat
+file:///C:/Users/ibrahim/Downloads/COMP4388-Fall2023-Project1.pdf
